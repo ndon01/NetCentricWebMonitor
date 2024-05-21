@@ -1,5 +1,6 @@
 ## Group Members
 - Nicholas Donahue
+- David Ulloa
 
 ## Language Used
 - C
