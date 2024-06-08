@@ -17,3 +17,6 @@ To compile the code, use the following command:
 ```
 make all clean
 ```
+
+## Example Output
+![Output](./assets/output.png)
