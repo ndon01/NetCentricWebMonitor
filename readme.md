@@ -18,5 +18,14 @@ To compile the code, use the following command:
 make all clean
 ```
 
+## Running the Program
+Once the program has been compiled, run the following command to execute the program:
+```
+./monitor <path-to-urls.txt>
+```
+
+## Modify the URLs
+To modify the URLs that the program will monitor, edit the `urls.txt` file. Each line in the file should contain a URL that the program will monitor.
+
 ## Example Output
 ![Output](./assets/output.png)
