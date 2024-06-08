@@ -1,5 +1,6 @@
 ## Group Members
 - Nicholas Donahue
+- David Ulloa
 
 ## Language Used
 - C
@@ -16,6 +17,3 @@ To compile the code, use the following command:
 ```
 make all clean
 ```
-
-## Example Output
-![Output](./assets/output.png)
